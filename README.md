@@ -1,4 +1,4 @@
-# HW101 Task Progress and Work Documentation
+# HW101 Task Progress
 
 Hello everyone! Welcome to my repository. 
 
