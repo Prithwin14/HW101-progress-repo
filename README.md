@@ -1,5 +1,5 @@
 # HW101 Task repo
 
-Hello everyone! Welcome to my repository. 
+Hello everyone. I'm Prithwin.
 
-I'm Prithwin , and I'll be sharing my progress on the HW101 tasks here in this repo.
+I'll be sharing my progress on the HW101 tasks here in this repo.
