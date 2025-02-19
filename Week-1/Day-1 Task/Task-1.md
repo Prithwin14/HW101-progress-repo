@@ -1,5 +1,7 @@
 # Task 1 Completion Status
 
+Code for Each Section is provided in DAY-1code.v
+
 ## Step One
 
 ![image](https://github.com/user-attachments/assets/6260194d-e995-46c1-b676-83e46dbbb259)
