@@ -1,4 +1,4 @@
-# Task 1 Completion Status
+# Task 1 Completion Status in HDLbits
 
 Code for Each Section is provided in DAY-1code.v
 
