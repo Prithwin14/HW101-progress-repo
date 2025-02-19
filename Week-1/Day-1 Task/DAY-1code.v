@@ -1,6 +1,6 @@
 #Getting Started
 
-##One
+##Step One
 
 module top_module( output one );
 
@@ -27,7 +27,7 @@ module top_module( input in, output out );
 assign out = in;
 endmodule
 
-##4wires
+##Four wires
 
 module top_module( 
     input a,b,c,
@@ -40,7 +40,7 @@ assign z = c;
 
 endmodule
 
-##Inverter
+##Not Gate
 
 module top_module( input in, output out );
     assign out =~ in;
@@ -67,7 +67,7 @@ module top_module(
 
 endmodule
 
-##Xnorgate
+##Xnor gate
 
 module top_module( 
     input a, 
