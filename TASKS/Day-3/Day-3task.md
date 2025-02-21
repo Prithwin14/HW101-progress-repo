@@ -7,3 +7,7 @@
 ## Always If 2
 
 ![image](https://github.com/user-attachments/assets/4d7d403f-08e4-4292-9750-9eea89b7a11a)
+
+## Always Case
+
+![image](https://github.com/user-attachments/assets/eea0c1fe-50b7-48d5-91f3-ce8779f8eb2c)
